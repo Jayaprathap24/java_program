@@ -152,13 +152,6 @@ public class Dailytask {
 //			System.out.println("its not leap year");
 //			
 //		}
-		 int number=6;
-		 if(number%1==0 && number%number==0 || number/number==0) {
-			 System.out.println("its prime number"); 
-		 }
-		 else {
-			 System.out.println("its not prime number");
-		 }
 		
 			
 		}
@@ -169,3 +162,4 @@ public class Dailytask {
 	}
 
 	
+
